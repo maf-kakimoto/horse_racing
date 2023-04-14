@@ -8,5 +8,5 @@
 ## Contents
 
 - racefile_past.py
-  - This script is to Download race data in the past.
+  - This script is to download race data in the past.
   - Please specify target races in `holdings_sampling.yml`
