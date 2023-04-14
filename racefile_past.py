@@ -25,7 +25,8 @@ def makeFiles(raceid):
     racekey += raceid['date']
     racekey += raceid['No']
 
-    url = 'https://db.netkeiba.com/race/' + racekey + '/'
+    url = 'xxx'
+    url += racekey + '/'
     soup_download = bs._soup(url)
     out = codecs.open(path + racekey + '_soup.html', 'w', 'utf-8')
     out.write(str(soup_download))
