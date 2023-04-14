@@ -2,8 +2,8 @@
 
 ## Outline
 
-This software is to predict horse racing.
-It is released under the MIT License, see LICENSE.txt
+- This software is to predict horse racing.
+- It is released under the MIT License, see LICENSE.txt
 
 ## Contents
 
