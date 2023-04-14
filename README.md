@@ -1,3 +1,5 @@
+This software is released under the MIT License, see LICENSE.txt.
+
 # horse_racing
 
 ## racefile_past.py
