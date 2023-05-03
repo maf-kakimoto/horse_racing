@@ -15,3 +15,6 @@
   - You can choose the range of their age.
 - file2db_past.py
   - This script is to store data from file into database.
+- statistics.py
+  - This script is to generate statistical value.
+  - Please specify target you need to generate.
