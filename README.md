@@ -18,3 +18,5 @@
 - statistics.py
   - This script is to generate statistical value.
   - Please specify target you need to generate.
+- featuredb.py
+  - This script is to create feature values for modeling.
