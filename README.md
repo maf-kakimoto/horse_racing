@@ -19,4 +19,6 @@
   - This script is to generate statistical value.
   - Please specify target you need to generate.
 - featuredb.py
-  - This script is to create feature values for modeling.
+  - This script is to make feature values for modeling.
+- modeling.py
+  - This script is to create a horse racing forecasting model.
